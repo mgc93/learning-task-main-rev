@@ -1,0 +1,27 @@
+.img_instructions{
+    width:auto;
+    height:auto;
+    max-width:100%;
+    max-height:90%;
+}
+
+.img_questions{
+    width:auto;
+    height:auto;
+    max-width:50%;
+    max-height:50%;
+}
+
+.img_questions_set{
+    width:auto;
+    height:auto;
+    max-width:90%;
+    max-height:90%;
+}
+
+.img_memory_questions{
+    width:auto;
+    height:auto;
+    max-width:60%;
+    max-height:50%;
+}
